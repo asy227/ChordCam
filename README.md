@@ -5,13 +5,11 @@ ChordCam is an interactive desktop app that uses your computer’s webcam to det
 
 Detects your hand and recognizes custom chord gestures
 
-Plays chord audio when a gesture is recognized (you can upload your own recordings!)
+Plays chord audio when a gesture is recognized
 
 Inverted camera view for easier playing orientation
 
 Extensible — add more chords and custom finger positions without rewriting core logic
-
-AI-ready — train a gesture classification model (scikit-learn or TensorFlow) to recognize more natural ukulele chords
 
 
 
