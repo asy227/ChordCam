@@ -13,7 +13,7 @@ Extensible — add more chords and custom finger positions without rewriting cor
 
 AI-ready — train a gesture classification model (scikit-learn or TensorFlow) to recognize more natural ukulele chords
 
-Getting Started
+Getting Started \n
 
 
 
