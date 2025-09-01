@@ -21,8 +21,8 @@ ChordCam is an interactive desktop app that uses your computer’s webcam to det
   
 
 ## 🎸 Right now, the following ukulele chords are mapped to simple “finger up” patterns:
-C → Index up
-G → Index + Middle up
-Am → Index + Middle + Ring up
-F → Index + Middle + Ring + Pinky up
+    - C → Index up  
+    - G → Index + Middle up  
+    - Am → Index + Middle + Ring up  
+    - F → Index + Middle + Ring + Pinky up  
 
