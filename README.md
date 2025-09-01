@@ -13,11 +13,10 @@ Extensible — add more chords and custom finger positions without rewriting cor
 
 AI-ready — train a gesture classification model (scikit-learn or TensorFlow) to recognize more natural ukulele chords
 
-Getting Started \n
 
 
 
-Prerequisites:
+🎶Prerequisites:
 
 Python 3.10–3.11 (MediaPipe doesn’t yet support 3.12+)
 
@@ -38,7 +37,7 @@ Pygame (for audio playback)
 
 
 
-Right now, the following ukulele chords are mapped to simple “finger up” patterns:
+🎸Right now, the following ukulele chords are mapped to simple “finger up” patterns:
 
 C → Index up
 
@@ -47,5 +46,4 @@ G → Index + Middle up
 Am → Index + Middle + Ring up
 
 F → Index + Middle + Ring + Pinky up
-
 
