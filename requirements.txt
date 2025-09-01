@@ -1,0 +1,7 @@
+Libraries needed:
+opencv-python
+mediapipe
+pygame
+
+Run this command after installing libraries:
+' pip freeze > requirements.txt '
